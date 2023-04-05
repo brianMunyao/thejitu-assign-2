@@ -22,7 +22,7 @@ body {
 .left,
 .right {
 	overflow: hidden;
-	border-radius: 40px;
+	border-radius: 25px;
 	width: 270px;
 	height: 350px;
 	padding: 30px;
@@ -43,7 +43,7 @@ body {
 }
 
 .left .score-container {
-	background: linear-gradient(#4d22c9, #4533eb);
+	background: linear-gradient(hsla(256, 72%, 46%, 1), hsla(241, 72%, 46%, 0));
 	height: 140px;
 	width: 140px;
 	border-radius: 70px;
@@ -82,8 +82,6 @@ body {
 	font-weight: 700;
 }
 
-.summary-items {
-}
 .summary-item {
 	display: flex;
 	align-items: center;
@@ -131,6 +129,7 @@ body {
 
 .summary-item img {
 	margin-right: 8px;
+	height: 18px;
 }
 
 .summary-item-right {
