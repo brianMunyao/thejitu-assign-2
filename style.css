@@ -105,31 +105,31 @@ main {
 	font-size: 14px;
 }
 
-.summary-item:nth-child(1) {
+.reaction {
 	background: hsla(0, 100%, 67%, 0.08);
 }
-.summary-item:nth-child(1) .summary-item-left {
+.reaction .summary-item-left {
 	color: hsl(0, 100%, 67%);
 }
 
-.summary-item:nth-child(2) {
+.memory {
 	background: hsl(39, 100%, 56%, 0.08);
 }
-.summary-item:nth-child(2) .summary-item-left {
+.memory .summary-item-left {
 	color: hsl(39, 100%, 56%);
 }
 
-.summary-item:nth-child(3) {
+.verbal {
 	background: hsl(166, 100%, 37%, 0.08);
 }
-.summary-item:nth-child(3) .summary-item-left {
+.verbal .summary-item-left {
 	color: hsl(166, 100%, 37%);
 }
 
-.summary-item:nth-child(4) {
+.visual {
 	background: hsl(234, 85%, 45%, 0.08);
 }
-.summary-item:nth-child(4) .summary-item-left {
+.visual .summary-item-left {
 	color: hsl(234, 85%, 45%);
 }
 
