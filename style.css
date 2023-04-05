@@ -129,7 +129,7 @@ body {
 	font-weight: 600;
 }
 
-.summary-item .summary-item-left svg {
+.summary-item img {
 	margin-right: 8px;
 }
 
@@ -151,14 +151,3 @@ body {
 	border-radius: 30px;
 	cursor: pointer;
 }
-/* 
-
-success-color: #009252
-success-color-light: #f2fbfa
-yellow-color: #ffca00
-yellow-color-light: #fffbf2
-blue-color: #4e25ff
-blue-color-light: #f3f3fd
-
-button: #303b59
- */
